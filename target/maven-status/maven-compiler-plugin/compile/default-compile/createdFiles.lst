@@ -1,0 +1,10 @@
+concepts/TestBook.class
+test/BookTest.class
+com/groovyx/concepts/TestGroovy.class
+test/PersonTest.class
+com/groovyx/concepts/Person.class
+test/StudentTest.class
+concepts/ProductTest.class
+com/groovyx/concepts/Student.class
+com/groovyx/concepts/Book.class
+concepts/Demo.class
